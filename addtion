@@ -4,7 +4,11 @@
 
 int main()
 {
+<<<<<<< HEAD
    int a, b, c, d, e;
+=======
+   int a, b, c, d, f;
+>>>>>>> 8aa6a53b78709d224462d04856574520d2f5cfa3
 
    printf("Enter two numbers to add\n");
    scanf("%d%d", &a, &b);
